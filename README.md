@@ -1,4 +1,4 @@
-# Online-Payments-Fraud-Detection
+# Tackling-fraud-Detection-in-Online-Transactions-using-Logistic-Regression-and-Random-Forests
 
 The dataset consists of financial transaction information, including the transaction type, amount, sender and recipient details, balances, and fraud status.
 
